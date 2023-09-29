@@ -1,0 +1,19 @@
+.pink-div{
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.pink-div.large-div{
+    font-size: 24px;
+}
+
+#blueDiv{
+    font-size: 36px;
+    color: blue;
+}
+
+#greenDiv{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
